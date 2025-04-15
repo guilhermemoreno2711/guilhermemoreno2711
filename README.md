@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=F71D3B&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme;Bem-vindo+ao+meu+Github" alt="Typing SVG" /></a>
 
 ###
+<h4 align="left">Sobre mim:</h4>
+
 
 <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💼 Buscando estágio na área de tecnologia  <br>🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e criativos</p>
 
