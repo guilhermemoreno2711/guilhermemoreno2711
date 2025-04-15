@@ -1,12 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=F71D3B&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+!;Bem-vindo+ao+meu+Github" alt="Typing SVG" /></a>
 
 ###
-<h4 align="left">Sobre mim:</h4>
 
+<div>
+    <h4 align="left">Sobre mim:</h4>
+    <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💼 Buscando estágio na área de tecnologia  <br>🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e       criativos</p>
+ 
+</div>
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💼 Buscando estágio na área de tecnologia  <br>🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e criativos</p>
-
-###
 
 <h4 align="left">💡 Tecnologias que estou estudando/aprendendo:</h4>
 
@@ -53,18 +54,9 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
-</div>
-
-###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermemoreno2711/guilhermemoreno2711/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermemoreno2711/guilhermemoreno2711/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermemoreno2711/guilhermemoreno2711/output/github-contribution-grid-snake.svg">
 </picture>
-
 ###
