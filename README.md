@@ -1,56 +1,61 @@
-<img src="https://github.com/user-attachments/assets/1ceeb13e-db34-4350-a5cc-7ef14c499c5e">
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFrc2tiajk5bW5veGt2ZmdxcTg4Y2ZwMzhxazNjZWF6YXVyM2h5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif" width="450" height="auto">
-</p>
+<h2 align="left">👋 Olá, eu sou o Guilherme!</h2>
 
----
+###
 
-### Sobre mim  
-Ahoy! Me chamo *Guilherme* ⚓, sou estudante de *Análise e Desenvolvimento de Sistemas* 💻 e estou em busca de um *estágio na área Tech* 🧭 para iniciar minha jornada profissional.  
-Atualmente estou me aprofundando em:  
-- *HTML* 🧱  
-- *CSS* 🎨  
-- *JavaScript* ⚙  
-- *React* ⚛  
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💼 Buscando estágio na área de tecnologia  <br>🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e criativos</p>
 
-Enquanto isso, sigo navegando pelos mares do conhecimento em busca do meu tesouro como desenvolvedor! 
+###
 
----
+<h4 align="left">💡 Tecnologias que estou estudando/aprendendo:</h4>
 
-### Habilidades da Minha Akuma no Mi
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
 
----
+###
 
-### Estatísticas da Minha Aventura 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoreno2711&layout=compact&theme=tokyonight)
+<h4 align="left">📈 Estatísticas do GitHub</h4>
 
----
+###
 
-### Fale com o Capitão ☎
+<br clear="both">
 
-<p align="left">
-  <a href="mailto:guilhermemorenoso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermemoreno2711&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="left">📫 Contatos</h4>
+
+###
+
+<div align="left">
+  <a href="guilhermemorenoso@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="23" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-moreno-dev-frontend" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/guilherme-moreno-dev-frontend/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="23" alt="linkedin logo"  />
   </a>
-</p>
+</div>
 
-> "Eu vou ser o Rei dos Desenvolvedores!" 
+###
 
----
+<br clear="both">
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/51/98/ff/5198ff1588d126001fe82b80919cdd98.gif" width="300"/>
-</p>
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
+</div>
+
+###
