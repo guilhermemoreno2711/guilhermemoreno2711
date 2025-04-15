@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá, eu sou o Guilherme!</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=F71D3B&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme;Bem-vindo+ao+meu+Github" alt="Typing SVG" /></a>
 
 ###
 
