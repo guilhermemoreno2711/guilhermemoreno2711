@@ -1,5 +1,4 @@
-<h1 align="center">Yohohoho! Bem-vindo ao navio do Guilherme! ☠</h1>
-
+<img src="https://github.com/user-attachments/assets/1ceeb13e-db34-4350-a5cc-7ef14c499c5e">
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFrc2tiajk5bW5veGt2ZmdxcTg4Y2ZwMzhxazNjZWF6YXVyM2h5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif" width="450" height="auto">
 </p>
