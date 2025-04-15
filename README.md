@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-moreno-dev-frontend/)
