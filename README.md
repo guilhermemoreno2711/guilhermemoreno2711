@@ -1,4 +1,4 @@
-<h1 align="center">Yohohoho! Bem-vindo ao navio do Guilherme!</h1>
+<h1 align="center">Yohohoho! Bem-vindo ao navio do Guilherme! ☠</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFrc2tiajk5bW5veGt2ZmdxcTg4Y2ZwMzhxazNjZWF6YXVyM2h5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif" width="450" height="auto">
@@ -7,8 +7,14 @@
 ---
 
 ### Sobre mim  
-Ahoy! Me chamo Guilherme, sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de um estágio na área Tech para iniciar minha jornada profissional.  
-Atualmente estou me aprofundando em HTML, CSS, JavaScript e React, enquanto navego pelos mares do conhecimento!
+Ahoy! Me chamo *Guilherme* ⚓, sou estudante de *Análise e Desenvolvimento de Sistemas* 💻 e estou em busca de um *estágio na área Tech* 🧭 para iniciar minha jornada profissional.  
+Atualmente estou me aprofundando em:  
+- *HTML* 🧱  
+- *CSS* 🎨  
+- *JavaScript* ⚙  
+- *React* ⚛  
+
+Enquanto isso, sigo navegando pelos mares do conhecimento em busca do meu tesouro como desenvolvedor! 
 
 ---
 
@@ -25,14 +31,13 @@ Atualmente estou me aprofundando em HTML, CSS, JavaScript e React, enquanto nave
 
 ---
 
-### Estatísticas da Minha Aventura
+### Estatísticas da Minha Aventura 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoreno2711&layout=compact&theme=tokyonight)
 
 ---
 
-
-### Fale com o Capitão
+### Fale com o Capitão ☎
 
 <p align="left">
   <a href="mailto:guilhermemorenoso@gmail.com" target="_blank">
@@ -43,7 +48,7 @@ Atualmente estou me aprofundando em HTML, CSS, JavaScript e React, enquanto nave
   </a>
 </p>
 
-> "Eu vou ser o Rei dos Desenvolvedores!"
+> "Eu vou ser o Rei dos Desenvolvedores!" 
 
 ---
 
