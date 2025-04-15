@@ -5,16 +5,19 @@
 🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e criativos
 
 ## 💡 Tecnologias que estou estudando/aprendendo:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ## 📈 Estatísticas do GitHub
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoreno2711&hide_progress=compact&show_icons=true&theme=tokyonight)
 
 ## 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-moreno-dev-frontend/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:guilhermemorenoso@gmail.com)
 
