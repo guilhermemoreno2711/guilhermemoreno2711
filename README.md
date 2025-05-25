@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=F71D3B&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+!;Bem-vindo+ao+meu+Github" alt="Typing SVG" /></a>
-
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=2FA4D8&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme;Bem-vindo+ao+meu+Github)](https://git.io/typing-svg)
 
 <div>
     <h4 align="left">Sobre mim:</h4>
