@@ -2,7 +2,7 @@
 
 <div>
     <h4 align="left">Sobre mim:</h4>
-    <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💼 Buscando estágio na área de tecnologia  <br>🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e       criativos</p>
+    <p align="left">🎓 Estudante de Tecnologia da informação <br>💼 Buscando estágio na área de tecnologia  <br>🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e       criativos</p>
  
 </div>
 
