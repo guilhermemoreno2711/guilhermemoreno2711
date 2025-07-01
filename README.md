@@ -32,20 +32,17 @@
 <h4 align="center">📈 Estatísticas do GitHub</h4>
 
 <div align="center">
-  <img 
-    align="center"
-    height="200"
+  <img
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=guilhermemoreno2711&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     alt="GitHub Stats"
   />
-  <img 
-    align="center"
-    height="200"
+  <img
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoreno2711&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
     alt="Top Languages"
   />
 </div>
-
 <br clear="both" />
 
 ---
