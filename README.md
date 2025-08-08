@@ -8,8 +8,10 @@
   <h4 align="center">Sobre mim:</h4>
   <p align="center">
     🎓 Estudante de Tecnologia da Informação <br>
-    💼 Buscando estágio na área de tecnologia <br>
-    🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e criativos
+    💼 Buscando estágio na área de Front-end<br>
+    🚀 Focado em evoluir como desenvolvedor Front-End e construir projetos reais e criativos<br>
+    <br>
+    Atualmente, atuo como Técnico de Suporte I na T-Systems, dentro da planta da Volkswagen em Taubaté, sendo responsável por fornecer suporte a sistemas e equipamentos de produção, garantindo a continuidade e eficiência dos processos.
   </p>
 </div>
 
